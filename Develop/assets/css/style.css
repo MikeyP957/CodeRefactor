@@ -76,8 +76,10 @@ right*/
     display: inline-block;
     margin-left: 20px;
 }
-
-.benefits {
+/*This class styles the background color
+the size, positioning, padding and margin
+for all the side content*/
+.sideContentBox {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -89,23 +91,25 @@ right*/
 }
 /*Rename and make sure the name corresponds with 
 the HTML*/
-.benefit-lead {
+.sideContent {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.sideContent h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-lead img {
+.sideContent img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-
+/*This styles the main content of the page
+in the blue boxes. It also styles the images'
+sizes and the font size in the headers*/
 .mainContent {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,15 +119,15 @@ the HTML*/
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+.mainContent img {
     max-height: 200px;
 }
 
-.search-engine-optimization h2 {
+.mainContent h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/*This styles the footer for the page*/
 .footer {
     padding: 30px;
     clear: both;
