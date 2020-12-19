@@ -133,6 +133,7 @@ the text and the images*/
 
 /*This styles the footer for the page*/
 .footer {
+    margin-bottom: 10px;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
