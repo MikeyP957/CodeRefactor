@@ -73,7 +73,7 @@ right*/
     float: right;
     margin-left: 25px;
 }
-
+/*gives width, in-line blocking and 20px margin to the container 'content'S*/
 .content {
     width: 75%;
     display: inline-block;
