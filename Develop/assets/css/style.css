@@ -103,6 +103,7 @@ the size, positioning, padding and margin
 for all the side content*/
 .sideContentBox {
     margin-right: 20px;
+    margin-bottom: 10px;
     padding: 20px;
     clear: both;
     float: right;
