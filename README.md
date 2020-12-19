@@ -20,7 +20,8 @@ https://mikeyp957.github.io/CodeRefactor/Develop
 
 The following image shows the web application's appearance and functionality:
 
-![code refactor demo](./Assets/01-html-css-git-homework-demo.png)
+![Screenshots](./Assets/header_links.png)
+
 
 
 
