@@ -1,0 +1,148 @@
+/*The whole page has 0 margin and 0 padding*/
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: #d9dcd6;
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS',
+    'Lucida Sans Unicode', 'Lucida Grande',
+     'Lucida Sans', Arial, sans-serif;
+    background-color: #2a607c;
+    color: #ffffff;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+/*changes the color of SEO in the title*/
+.seo {
+    color: #d9dcd6;
+}
+
+.headerList {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT',
+    'Calibri', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.headerList ul {
+    list-style-type: none;
+}
+
+.headerList li {
+    display: inline-block;
+    margin-left: 25px;
+}
+/*Changes the links to white*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/*The text size for paragraphs are 16px*/
+p {font-size: 16px;}
+
+.mainImage {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+/*These float the two images, one left for left and one for 
+right*/
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/*This styles the main content of the page
+in the blue boxes. It also styles the images'
+sizes and the font size in the headers*/
+.mainContent {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.mainContent img {
+    max-height: 200px;
+}
+
+.mainContent h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+/*This class styles the background color
+the size, positioning, padding and margin
+for all the side content*/
+.sideContentBox {
+    margin-right: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+}
+/*The style for the content that displays on
+the right side of the webpage. This includes
+the text and the images*/
+.sideContent {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.sideContent h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+.sideContent img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+
+/*This styles the footer for the page*/
+.footer {
+    margin-bottom: 10px;
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode',
+    'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    display: none;
+    }
+
+.footer h2 {
+    font-size: 20px;
+}
