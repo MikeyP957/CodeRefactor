@@ -8,6 +8,14 @@
 body {
     background-color: #d9dcd6;
 }
+/*Changes the links to white*/
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+/*The text size for paragraphs are 16px*/
+p {font-size: 16px;}
+
 /*Styles the header*/
 .header {
     padding: 20px;
@@ -44,13 +52,6 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-/*Changes the links to white*/
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-/*The text size for paragraphs are 16px*/
-p {font-size: 16px;}
 
 .mainImage {
     height: 800px;
