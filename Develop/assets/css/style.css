@@ -22,8 +22,8 @@ body {
     display: inline-block;
     font-size: 48px;
 }
-
-.header h1 .seo {
+/*changes the color of SEO in the title*/
+.seo {
     color: #d9dcd6;
 }
 
