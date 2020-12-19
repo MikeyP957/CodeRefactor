@@ -17,9 +17,9 @@ The codebade follows the accessibility standards so that the website is optimize
 ## URL:
 https://mikeyp957.github.io/CodeRefactor/Develop
 
-
+## Example:
 The following image shows the web application's appearance: 
-![PageLayout]()
+![PageLayout](Assets/Demo.png)
 
 Functionality: The links in the header take the reader to the corresponding section.
 
