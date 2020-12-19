@@ -109,8 +109,9 @@ for all the side content*/
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*Rename and make sure the name corresponds with 
-the HTML*/
+/*The style for the content that displays on
+the right side of the webpage. This includes
+the text and the images*/
 .sideContent {
     margin-bottom: 32px;
     color: #ffffff;
