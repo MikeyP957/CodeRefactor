@@ -1,5 +1,3 @@
-HTML CSS Git: Code Refactor
-
 ## Completed Tasks
 
 This is an example of an on-the-job ticket, where code was refractored. Modifications that were made include adding meaningful comments, identifying and fixing bugs, and consoildating redundent classes.
